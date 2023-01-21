@@ -1,0 +1,25 @@
+{
+    "name": "io-jaegers/session",
+    "type": "library",
+    "license": "MIT",
+    "autoload":
+    {
+        "psr-4":
+        {
+            "IoJaegers\\": "code/",
+            "IoJaegers\\Session\\": "code/php/"
+        }
+    },
+    "authors":
+    [
+        {
+            "name": "Kent vejrup Madsen",
+            "email": "kent.vejrup.madsen@designermadsen.dk"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require":
+    {
+
+    }
+}
